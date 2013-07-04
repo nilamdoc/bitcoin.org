@@ -13,6 +13,7 @@ ALERT_CLASS:
   pl: 
   ru: 
   tr: 
+  zh_CN: 
   
 ALERT:
   all: 
@@ -27,6 +28,7 @@ ALERT:
   pl: 
   ru: 
   tr: 
+  zh_CN: 
 
 langsorder:
 - id: de
@@ -38,6 +40,7 @@ langsorder:
 - id: pl
 - id: ru
 - id: tr
+- id: zh_CN
 - id: ar
 - id: fa
 
@@ -53,6 +56,7 @@ langs:
   pl: Polski
   ru: Русский
   tr: Türkçe
+  zh_CN: ‪简体中文‬
 
 safe:        false
 auto:        false
